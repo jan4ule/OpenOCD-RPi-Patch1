@@ -1,3 +1,8 @@
+This is a modified version of OpenOCD which allows the SVF player to work correctly on a Raspberry Pi for JTAG based FPGA programming
+
+-jstefanop
+
+
 Welcome to OpenOCD!
 ===================
 
